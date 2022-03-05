@@ -1,0 +1,2 @@
+module Methodreturntype_4 {
+}
